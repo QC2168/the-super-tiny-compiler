@@ -1,22 +1,16 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '-': ^0.0.1
   vite: ^3.0.9
   vitest: ^0.22.1
 
 dependencies:
-  '-': 0.0.1
   vite: 3.0.9
 
 devDependencies:
   vitest: 0.22.1
 
 packages:
-
-  /-/0.0.1:
-    resolution: {integrity: sha512-3HfneK3DGAm05fpyj20sT3apkNcvPpCuccOThOPdzz8sY7GgQGe0l93XH9bt+YzibcTIgUAIMoyVJI740RtgyQ==}
-    dev: false
 
   /@esbuild/linux-loong64/0.14.54:
     resolution: {integrity: sha512-bZBrLAIX1kpWelV0XemxBZllyRmM6vgFQQG2GdNb+r3Fkp0FOh1NJSvekXDs7jq70k4euu1cryLMfU+mTXlEpw==}
